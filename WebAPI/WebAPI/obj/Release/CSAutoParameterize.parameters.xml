@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IvyBPortfolioEntities-Web.config Connection String" description="IvyBPortfolioEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.PortfolioModel.csdl|res://*/Models.PortfolioModel.ssdl|res://*/Models.PortfolioModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DESKTOP-JLUMQNO;initial catalog=IvyBPortfolio;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\PROJECTS\\FullStackCodeSnippets\\ReactJS\ -\ Portfolio\ Site\\Porfolio\ Site\\IvyBWebAPI\\IvyBWebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='IvyBPortfolioEntities']/@connectionString" />
+  </parameter>
+  <parameter name="DevTestWorkLocalEntities-Web.config Connection String" description="DevTestWorkLocalEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.WorkLocalPCModel.csdl|res://*/Models.WorkLocalPCModel.ssdl|res://*/Models.WorkLocalPCModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=DTR15888\SQLEXPRESS;initial catalog=DevTest;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\PROJECTS\\FullStackCodeSnippets\\ReactJS\ -\ Portfolio\ Site\\Porfolio\ Site\\IvyBWebAPI\\IvyBWebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DevTestWorkLocalEntities']/@connectionString" />
+  </parameter>
+</parameters>

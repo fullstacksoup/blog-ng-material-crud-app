@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AppDBModelStoreContainer" CdmEntityContainer="DemoEntities">
+    <EntitySetMapping Name="GenericTables">
+      <EntityTypeMapping TypeName="AppDBModel.GenericTable">
+        <MappingFragment StoreEntitySet="GenericTable">
+          <ScalarProperty Name="JSDateTime" ColumnName="JSDateTime" />
+          <ScalarProperty Name="JSDate" ColumnName="JSDate" />
+          <ScalarProperty Name="Boolean" ColumnName="Boolean" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Text" ColumnName="Text" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,467 @@
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll.config
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.pdb
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe.config
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.rsp
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe.config
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.rsp
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Console.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe.config
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.rsp
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\WebGrease.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csprojAssemblyReference.cache
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CoreCompileInputs.cache
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CopyComplete
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.pdb
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.xml
+F:\PROJECTS\IVY BARISH PORTFOLIO\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll.config
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.pdb
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe.config
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.rsp
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe.config
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.rsp
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Console.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe.config
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.rsp
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebGrease.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CopyComplete
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.pdb
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Owin.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Swashbuckle.Core.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebActivatorEx.dll
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.xml
+C:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll.config
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.pdb
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe.config
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.rsp
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe.config
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.rsp
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Console.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe.config
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.rsp
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Owin.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Swashbuckle.Core.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Cors.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebActivatorEx.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebGrease.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CopyComplete
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.dll
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.pdb
+E:\PROJECTS\FullStackCodeSnippets\Portfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csprojAssemblyReference.cache
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll.config
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.pdb
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe.config
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.rsp
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe.config
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.rsp
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Console.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe.config
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.rsp
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Owin.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Swashbuckle.Core.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Cors.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebActivatorEx.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebGrease.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CopyComplete
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.dll
+C:\PROJECTS\PUBLIC REPOS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.pdb
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll.config
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\IvyBWebAPI.pdb
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.exe.config
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csc.rsp
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.exe.config
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\csi.rsp
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Console.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.exe.config
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\vbc.rsp
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Owin.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Swashbuckle.Core.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebActivatorEx.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\WebGrease.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Newtonsoft.Json.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Helpers.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Mvc.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Optimization.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.Razor.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csproj.CopyComplete
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.dll
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.pdb
+C:\PROJECTS\FullStackCodeSnippets\ReactJS - Portfolio Site\Porfolio Site\IvyBWebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.csprojAssemblyReference.cache

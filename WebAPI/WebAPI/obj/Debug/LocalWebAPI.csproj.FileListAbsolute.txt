@@ -1,0 +1,664 @@
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\obj\Debug\LocalWebAPI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.pdb
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll.config
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\IvyBWebAPI.pdb
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\csc.exe
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\csc.exe.config
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\csc.rsp
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\csi.exe
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\csi.exe.config
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\csi.rsp
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Console.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\vbc.exe
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\vbc.exe.config
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\vbc.rsp
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Antlr3.Runtime.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\EntityFramework.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Newtonsoft.Json.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Owin.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Swashbuckle.Core.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Helpers.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Http.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Mvc.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Optimization.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Razor.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\WebActivatorEx.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\WebGrease.dll
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\EntityFramework.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Http.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Newtonsoft.Json.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Helpers.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Mvc.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Optimization.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.Razor.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
+C:\PROJECTS\FullStackCodeSnippets\upload-file-app\WebAPI\IvyBWebAPI\obj\Debug\LocalWebAPI.csprojAssemblyReference.cache
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll.config
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\IvyBWebAPI.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\IvyBWebAPI.pdb
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\csc.exe
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\csc.exe.config
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\csc.rsp
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\csi.exe
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\csi.exe.config
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\csi.rsp
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Console.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\vbc.exe
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\vbc.exe.config
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\vbc.rsp
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Antlr3.Runtime.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\EntityFramework.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Newtonsoft.Json.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Owin.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Swashbuckle.Core.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Cors.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Helpers.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Http.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Mvc.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Optimization.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Razor.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\WebActivatorEx.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\WebGrease.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\EntityFramework.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Microsoft.Owin.Cors.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Http.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Newtonsoft.Json.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Helpers.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Mvc.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Optimization.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.Razor.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\obj\Debug\LocalWebAPI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.dll
+C:\PROJECTS\ReactJS-File-Upload-App\WebAPI\IvyBWebAPI\obj\Debug\IvyBWebAPI.pdb
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\csc.exe
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\csc.exe.config
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\csc.rsp
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\csi.exe
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\csi.exe.config
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\csi.rsp
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.AppContext.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Console.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.IO.Compression.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Security.Claims.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.ValueTuple.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\vbc.exe
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\vbc.exe.config
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\vbc.rsp
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Antlr3.Runtime.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\EntityFramework.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\EntityFramework.SqlServer.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Microsoft.Owin.Cors.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Microsoft.Owin.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Newtonsoft.Json.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Owin.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Swashbuckle.Core.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Net.Http.Formatting.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Cors.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Helpers.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Http.Cors.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Http.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Http.WebHost.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Mvc.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Optimization.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Razor.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.WebPages.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.WebPages.Razor.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\WebActivatorEx.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\WebGrease.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\EntityFramework.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\EntityFramework.SqlServer.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Microsoft.Owin.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Microsoft.Owin.Cors.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Net.Http.Formatting.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Http.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Http.Cors.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Newtonsoft.Json.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Helpers.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Http.WebHost.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Mvc.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Optimization.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.Razor.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.WebPages.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\System.Web.WebPages.Razor.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Antlr3.Runtime.pdb
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\FileUploadAPI.dll.config
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\FileUploadAPI.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\bin\FileUploadAPI.pdb
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\obj\Debug\FileUploadAPI.dll
+E:\PROJECTS\ReactJS-File-Upload-App\WebAPI - FullStackSoup\IvyBWebAPI\obj\Debug\FileUploadAPI.pdb
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\obj\Debug\FileUploadAPI.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\obj\Debug\FileUploadAPI.pdb
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\FileUploadAPI.dll.config
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\FileUploadAPI.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\FileUploadAPI.pdb
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\csc.exe
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\csc.exe.config
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\csc.rsp
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\csi.exe
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\csi.exe.config
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\csi.rsp
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.AppContext.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Console.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\vbc.exe
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\vbc.exe.config
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\vbc.rsp
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Antlr3.Runtime.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\EntityFramework.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Microsoft.Owin.Cors.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Microsoft.Owin.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Newtonsoft.Json.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Owin.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Swashbuckle.Core.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Cors.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Helpers.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Http.Cors.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Http.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Mvc.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Optimization.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Razor.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.WebPages.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\WebActivatorEx.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\WebGrease.dll
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\EntityFramework.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Microsoft.Owin.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Microsoft.Owin.Cors.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Http.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Http.Cors.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Newtonsoft.Json.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Helpers.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Mvc.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Optimization.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.Razor.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.WebPages.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Antlr3.Runtime.pdb
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROJECTS\FULL STACK SOUP BLOG DEMOS\blog-react-dotnet-upload-file-to-db\API\WebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\FileUploadAPI.dll.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\FileUploadAPI.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\FileUploadAPI.pdb
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\csc.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\csc.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\csc.rsp
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\csi.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\csi.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\csi.rsp
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Console.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\vbc.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\vbc.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\vbc.rsp
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Antlr3.Runtime.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\EntityFramework.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Microsoft.Owin.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Newtonsoft.Json.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Owin.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Swashbuckle.Core.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Cors.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Helpers.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Http.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Mvc.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Optimization.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Razor.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.WebPages.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\WebActivatorEx.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\WebGrease.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\EntityFramework.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Microsoft.Owin.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Http.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Newtonsoft.Json.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Helpers.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Mvc.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Optimization.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.Razor.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.WebPages.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\obj\Debug\LocalWebAPI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\obj\Debug\FileUploadAPI.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-file-upload-demo\API\WebAPI\obj\Debug\FileUploadAPI.pdb
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\FileUploadAPI.dll.config
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\FileUploadAPI.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\FileUploadAPI.pdb
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\csc.exe
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\csc.exe.config
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\csc.rsp
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\csi.exe
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\csi.exe.config
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\csi.rsp
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.AppContext.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Console.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\vbc.exe
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\vbc.exe.config
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\vbc.rsp
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Antlr3.Runtime.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\EntityFramework.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Microsoft.Owin.Cors.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Microsoft.Owin.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Newtonsoft.Json.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Owin.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Swashbuckle.Core.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Cors.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Helpers.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Http.Cors.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Http.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Mvc.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Optimization.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Razor.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.WebPages.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\WebActivatorEx.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\WebGrease.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\EntityFramework.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Microsoft.Owin.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Microsoft.Owin.Cors.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Http.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Http.Cors.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Newtonsoft.Json.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Helpers.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Mvc.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Optimization.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.Razor.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.WebPages.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Antlr3.Runtime.pdb
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\obj\Debug\FileUploadAPI.dll
+E:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\API\WebAPI\obj\Debug\FileUploadAPI.pdb
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\FileUploadAPI.dll.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\FileUploadAPI.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\FileUploadAPI.pdb
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\csc.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\csc.rsp
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\csi.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\csi.rsp
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\vbc.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\EntityFramework.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.Owin.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Owin.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Swashbuckle.Core.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Razor.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\WebActivatorEx.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\WebGrease.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.Owin.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.Owin.Cors.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.Razor.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csproj.CoreCompileInputs.cache
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\FileUploadAPI.dll
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\FileUploadAPI.pdb
+C:\PROJECTS\FULLSTACKSOUP BLOG\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csprojAssemblyReference.cache

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IvyBPortfolioModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="RandomUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Gender" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GenderId" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="State" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Country" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PostalCode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TimeZone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="UniqeID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Salt" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="MDPassword" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LoginSHA" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="SHAPassword" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DOB" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="RegistrationDate" Type="DateTime" Nullable="false" Precision="7" />
+    <Property Name="RegisteredAge" Type="Int32" Nullable="false" />
+    <Property Name="Phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cell" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ImageURL" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nationality" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="IvyBPortfolioEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="RandomUsers" EntityType="Self.RandomUser" />
+    <EntitySet Name="UserImages" EntityType="IvyBPortfolioModel.UserImage" />
+    <EntitySet Name="UserProfiles" EntityType="IvyBPortfolioModel.UserProfile" />
+    <EntitySet Name="users" EntityType="IvyBPortfolioModel.user" />
+  </EntityContainer>
+  <EntityType Name="UserImage">
+    <Key>
+      <PropertyRef Name="ImageId" />
+    </Key>
+    <Property Name="ImageId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="Label" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Description" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="Size" Type="Int32" />
+    <Property Name="Url" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
+    <Property Name="MimeType" Type="String" MaxLength="40" FixedLength="true" Unicode="true" />
+    <Property Name="BinaryData" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="ImageData" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="IsActive" Type="Boolean" />
+    <Property Name="DateCreated" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="UserProfile">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="80" FixedLength="true" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="128" FixedLength="true" Unicode="true" />
+    <Property Name="Secret" Type="String" MaxLength="128" FixedLength="true" Unicode="true" />
+    <Property Name="FirstName" Type="String" MaxLength="80" FixedLength="true" Unicode="true" />
+    <Property Name="LastName" Type="String" MaxLength="80" FixedLength="true" Unicode="true" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Gender" Type="Int32" />
+    <Property Name="Weight" Type="Int32" />
+    <Property Name="Height" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Build" Type="Int32" />
+    <Property Name="HairColor" Type="Int32" />
+    <Property Name="EyeColor" Type="Int32" />
+    <Property Name="Address" Type="String" MaxLength="500" FixedLength="true" Unicode="true" />
+    <Property Name="State" Type="Int32" />
+    <Property Name="City" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="Zipcode" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Country" Type="String" MaxLength="40" FixedLength="true" Unicode="true" />
+    <Property Name="Birthdate" Type="DateTime" Precision="0" />
+    <Property Name="Description" Type="String" MaxLength="1000" FixedLength="true" Unicode="true" />
+    <Property Name="Title" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="Membership" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="DateCreated" Type="DateTime" Precision="0" />
+    <Property Name="DateModified" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LastName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Age" Type="Int32" Nullable="false" />
+    <Property Name="ImageURL" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>
