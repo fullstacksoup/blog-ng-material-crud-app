@@ -8,7 +8,7 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 import { formatDate } from '@angular/common';
 import { CrudDemoService } from 'src/app/services/crud-demo.service';
 import * as XLSX from 'xlsx';
-
+import { RecordModel } from 'src/app/models/crud-demo';
 @Component({
   selector: 'crud-list',
   templateUrl: './crud-list.component.html',
@@ -29,26 +29,13 @@ export class CrudListComponent implements OnInit, OnDestroy {
   public isRateLimitReached = false;
   public showEditBtn: boolean;
   public recordEditId: number;
-  public dataSource: any;
-
+  public dataSource: MatTableDataSource<RecordModel>;
   constructor(private demoSVC: CrudDemoService,
               private snackBar: MatSnackBar) { }
 
 
   ngOnInit(): void  {
-    this.recordEditId = 0;
-    this.showEditBtn = false;
-    this.subs.add(this.demoSVC.getAll()
-    .subscribe((data) => {
-      console.log(data);
-      this.dataArr = data;
-      this.dataSource = new MatTableDataSource(this.dataArr.data);
-      this.dataSource.sort = this.sort;
-      this.isLoadingResults = false;
-    },
-    (err: HttpErrorResponse) => {
-      console.log(err);
-    }));
+    this.loadData();
   }
 
   ngOnDestroy(): void {
@@ -57,8 +44,16 @@ export class CrudListComponent implements OnInit, OnDestroy {
      }
   }
 
+  applyFilter(event: Event) {
+    const filterValue = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filterValue.trim().toLowerCase();
 
-  openSnackBar(message: string, action: string) {
+    if (this.dataSource.paginator) {
+      this.dataSource.paginator.firstPage();
+    }
+  }
+
+  openSnackBar(message: string, action: string): void {
     this.snackBar.open(message, action, {
       duration: 2000,
       verticalPosition: 'top',
@@ -84,7 +79,7 @@ export class CrudListComponent implements OnInit, OnDestroy {
   }
 
 
-  public reload(): void  {
+  public loadData(): void  {
     this.recordEditId = 0;
 
     this.showEditBtn = false;
@@ -94,6 +89,7 @@ export class CrudListComponent implements OnInit, OnDestroy {
       this.dataArr = data;
       this.dataSource = new MatTableDataSource(this.dataArr.data);
       this.dataSource.sort = this.sort;
+      this.dataSource.paginator = this.paginator;
       this.isLoadingResults = false;
     },
     (err: HttpErrorResponse) => {
@@ -106,17 +102,17 @@ export class CrudListComponent implements OnInit, OnDestroy {
   }
 
 
-  onEdit(id: number) {
+  public onEdit(id: number): void {
     this.editRecord.emit(id);
     this.recordEditId = id;
   }
 
 
-  onDelete(id: number) {
+  public onDelete(id: number): void {
     this.subs.add(this.demoSVC.remove(id)
     .subscribe((data) => {
       this.openSnackBar(data.msg, 'Close');
-      this.reload();
+      this.loadData();
     },
     (err: HttpErrorResponse) => {
       console.log(err);

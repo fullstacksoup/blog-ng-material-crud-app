@@ -102,12 +102,8 @@ export class CrudAddFormComponent implements OnInit, OnDestroy {
       if (data.status === 200) {
         this.openSnackBar(data.msg, 'Close', 'mat-primary');
         this.recordChanged.emit(true);
-        this.dataForm.reset();
-        // this.dataForm.controls.ReportDate.setErrors(null);
-        // this.dataForm.controls.Text.setErrors(null);
-        // this.dataForm.controls.Number.setErrors(null);
-        // this.dataForm.controls.Boolean.setErrors(null);
-        // this.dataForm.controls.JSDate.setErrors(null);
+        this.clearForm();
+
       } else {
         this.openSnackBar(data.msg, 'Close', 'mat-warn');
       }
@@ -117,6 +113,14 @@ export class CrudAddFormComponent implements OnInit, OnDestroy {
     (err: HttpErrorResponse) => {
       console.log(err);
     }));
+  }
+
+  clearForm() {
+    this.dataForm.controls.Text.setValue('');
+    this.dataForm.controls.Number.setValue(null);
+    this.dataForm.controls.Text.setErrors(null);
+    this.dataForm.controls.Number.setErrors(null);
+    // this.dataForm.reset();
   }
 
 }

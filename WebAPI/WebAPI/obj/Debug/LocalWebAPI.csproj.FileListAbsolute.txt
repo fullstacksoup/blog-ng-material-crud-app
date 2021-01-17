@@ -753,7 +753,6 @@ C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\b
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csprojAssemblyReference.cache
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csproj.CoreCompileInputs.cache
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\FileUploadAPI.dll

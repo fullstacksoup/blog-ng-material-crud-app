@@ -3,41 +3,46 @@
   <form [formGroup]="dataForm" novalidate (ngSubmit)="onSubmit($event)" autocomplete="off">
 
     <div class="row">
-      <div class="col-6">
+      <div class="col-8">
         <mat-form-field  class="md-width">
-          <mat-label>Report Date</mat-label>
-          <input matInput [matDatepicker]="dp" [formControl]="date" formControlName="JSDate">
-          <mat-datepicker #dp ></mat-datepicker>
+          <input type="text" matInput [matDatepicker]="dp" [formControl]="date" formControlName="JSDate">
+          <mat-datepicker #dp></mat-datepicker>
         </mat-form-field>
         <button type="button" mat-raised-button color="accent" (click)="dp.open()"><mat-icon>today</mat-icon></button>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-8">
+      <div class="col-6">
         <mat-form-field class="full-width">
           <mat-label>Text</mat-label>
           <input matInput placeholder="" value="" formControlName="Text" >
         </mat-form-field>
       </div>
+      <div class="col-6">
+        <mat-form-field class="full-width">
+          <mat-label>Number</mat-label>
+          <input matInput placeholder="" value="" formControlName="Number" >
+        </mat-form-field>
+      </div>
     </div>
+
     <div class="row">
       <div class="col-7">
-        <mat-radio-group aria-label="Select an option" formControlName="Number">
-          <mat-radio-button value="1">Option 1</mat-radio-button>
-          <mat-radio-button value="2">Option 2</mat-radio-button>
+
+        <mat-radio-group aria-label="Select an option" formControlName="Boolean">
+          <mat-radio-button value="true" [checked]="booleanVal">True</mat-radio-button>
+          <mat-radio-button value="false" [checked]="!booleanVal">False</mat-radio-button>
         </mat-radio-group>
       </div>
       <div class="col-5">
-        <mat-slide-toggle formControlName="Boolean">Slide me!</mat-slide-toggle>
+        <mat-slide-toggle >Slide me!</mat-slide-toggle>
       </div>
-
     </div>
-
 
     <div class="row mt-5">
       <div class="col-4">
-        <button type="submit" mat-raised-button color="primary" [disabled]="dataForm.invalid || isBtnSubmit">{{btnSubmitLabel}}</button>
+        <button type="submit" mat-raised-button color="primary" [disabled]="dataForm.invalid">{{btnSubmitLabel}}</button>
       </div>
       <div class="col-4">
       </div>
@@ -45,8 +50,6 @@
         <button mat-raised-button color="warn" (click)="dataForm.reset()" type="reset" [disabled]="dataForm.pristine">Reset</button>
       </div>
     </div>
-
-
 
   </form>
 

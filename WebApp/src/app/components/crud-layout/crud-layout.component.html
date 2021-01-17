@@ -10,7 +10,8 @@
         </mat-card-header>
         <mat-card-content class="dashboard-card-content">
           <div>
-            <crud-add-form></crud-add-form>
+            <crud-add-form (recordChanged)="onReloadList($event)" *ngIf="!showEditRecord"></crud-add-form>
+            <crud-edit-form (recordUpdated)="onReloadList($event)" *ngIf="showEditRecord"></crud-edit-form>
 
           </div>
         </mat-card-content>
@@ -18,7 +19,7 @@
     </mat-grid-tile>
 
 
-    <mat-grid-tile [colspan]="4" [rowspan]="3">
+    <mat-grid-tile [colspan]="4" [rowspan]="6">
       <mat-card class="dashboard-card">
         <mat-card-header>
           <mat-card-title>
@@ -27,28 +28,11 @@
         </mat-card-header>
         <mat-card-content class="dashboard-card-content">
           <div>
-            <crud-list></crud-list>
+            <crud-list (editRecord)="onEditRecord($event)"></crud-list>
           </div>
         </mat-card-content>
       </mat-card>
     </mat-grid-tile>
-
-    <mat-grid-tile [colspan]="7" [rowspan]="3">
-      <mat-card class="dashboard-card">
-        <mat-card-header>
-          <mat-card-title>
-
-          </mat-card-title>
-        </mat-card-header>
-        <mat-card-content class="dashboard-card-content">
-          <div>
-
-            <!-- <dashboard-bar-chart-mracc-ridership [isEditMode]="isEditMode" [chartHeight]="chartHeightParentVal"></dashboard-bar-chart-mracc-ridership> -->
-          </div>
-        </mat-card-content>
-      </mat-card>
-    </mat-grid-tile>
-
 
   </mat-grid-list>
 </div>

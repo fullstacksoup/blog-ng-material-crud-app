@@ -75,7 +75,7 @@ namespace FileUploadAPI.Controllers
                     updateRecordForm.Number = int.Parse(form.Number);
                     updateRecordForm.Boolean = Boolean.Parse(form.Boolean);
                     updateRecordForm.JSDate = DateTime.Parse(form.JSDate);
-                    updateRecordForm.JSDateTime = DateTime.Parse(form.JSDateTime);
+                    // updateRecordForm.JSDateTime = DateTime.Parse(form.JSDateTime);
 
                     db.GenericTables.Add(updateRecordForm);
                     db.SaveChanges();
@@ -128,10 +128,8 @@ namespace FileUploadAPI.Controllers
             {
                 using (DemoEntities db = new DemoEntities())
                 {
-                    var queryResults = db.GenericTables.Find(id);
-                    db.GenericTables.Remove(queryResults);
-                    db.SaveChanges();
-                    return new { status = StatusCodes.OK.code, msg = "Success! Image Record Removed" };
+                    var record = db.GenericTables.Find(id);                                        
+                    return new { status = StatusCodes.OK.code, msg = StatusCodes.OK.msg, data=record };
                 }
             }
             catch (System.Exception e)

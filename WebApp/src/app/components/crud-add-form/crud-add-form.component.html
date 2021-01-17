@@ -3,10 +3,10 @@
   <form [formGroup]="dataForm" novalidate (ngSubmit)="onSubmit($event)" autocomplete="off">
 
     <div class="row">
-      <div class="col-6">
+      <div class="col-8">
         <mat-form-field  class="md-width">
           <input type="text" matInput [matDatepicker]="dp" [formControl]="date" formControlName="JSDate">
-          <mat-datepicker #dp ></mat-datepicker>
+          <mat-datepicker #dp></mat-datepicker>
         </mat-form-field>
         <button type="button" mat-raised-button color="accent" (click)="dp.open()"><mat-icon>today</mat-icon></button>
       </div>
@@ -26,6 +26,7 @@
         </mat-form-field>
       </div>
     </div>
+
     <div class="row">
       <div class="col-7">
         <mat-radio-group aria-label="Select an option" formControlName="Boolean">
@@ -36,9 +37,7 @@
       <div class="col-5">
         <mat-slide-toggle >Slide me!</mat-slide-toggle>
       </div>
-
     </div>
-
 
     <div class="row mt-5">
       <div class="col-4">
@@ -50,8 +49,6 @@
         <button mat-raised-button color="warn" (click)="dataForm.reset()" type="reset" [disabled]="dataForm.pristine">Reset</button>
       </div>
     </div>
-
-
 
   </form>
 

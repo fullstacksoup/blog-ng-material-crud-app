@@ -1,60 +1,51 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-// import { MraccListComponent } from '../mracc-list/mracc-list.component';
-// import { MraccDataEditFormComponent } from '../mracc-data-edit-form/mracc-data-edit-form.component';
-// import { MraccDataFormComponent } from '../mracc-data-form/mracc-data-form.component';
-// import { DashboardBarChartMraccRidershipComponent } from './../../../shared/charts/annual-charts/dashboard-bar-chart-mracc-ridership/dashboard-bar-chart-mracc-ridership.component';
-
-
+import { CrudListComponent } from './../crud-list/crud-list.component';
+import { CrudEditFormComponent } from './../crud-edit-form/crud-edit-form.component';
 @Component({
   selector: 'app-crud-layout',
   templateUrl: './crud-layout.component.html',
   styleUrls: ['./crud-layout.component.scss']
 })
 export class CrudLayoutComponent implements OnInit {
-  // @ViewChild(MraccListComponent, {static: false}) childListComponent: MraccListComponent;
-  // @ViewChild(MraccDataFormComponent, {static: false}) childFormComponent: MraccDataFormComponent;
-  // @ViewChild(MraccDataEditFormComponent, {static: false}) childEditFormComponent: MraccDataEditFormComponent;
-  // @ViewChild(DashboardBarChartMraccRidershipComponent, {static: false}) childBarChartComponent: DashboardBarChartMraccRidershipComponent;
+  @ViewChild(CrudListComponent) childListComponent: CrudListComponent;
+  @ViewChild(CrudEditFormComponent) childEditFormComponent: CrudEditFormComponent;
 
-  showEditRecord: boolean;
-  recordId: number;
-  chartHeightParentVal: number;
-  isEditMode: boolean;
+  public showEditRecord: boolean;
+  public recordId: number;
+  public chartHeightParentVal: number;
+  public isEditMode: boolean;
+
   constructor() { }
 
-  public cancelUpdate() {
+  ngOnInit(): void {
+    this.chartHeightParentVal = 290;
+    this.isEditMode = true;
+  }
+
+  public cancelUpdate(): void {
     this.showEditRecord = false;
-//    this.childListComponent.cancelUpdate();
   }
-  public reloadChildComp() {
-  //   this.childListComponent.reload();
-  //   this.childBarChartComponent.refreshChart();
- }
-  public reloadChildCompUpdate() {
+
+  public onReloadList($vent: any): void {
+    this.childListComponent.loadData();
+  }
+
+  public reloadChildCompUpdate(): void {
     this.showEditRecord = false;
-    // this.childListComponent.reload();
-    // this.childBarChartComponent.refreshChart();
   }
 
-
-  public exportToExcel() {
-
+  public exportToExcel(): void {
+     this.childListComponent.exportAsExcel();
   }
-  public editRecord($event) {
 
+  public onEditRecord($event): void {
     this.recordId = $event;
+    console.log('Edit Record ', $event);
     if (this.showEditRecord) {
     } else {
       this.showEditRecord = true;
     }
-    // this.childEditFormComponent.loadRecord(this.recordId);
-
-  }
-
-
-  ngOnInit() {
-    this.chartHeightParentVal = 290;
-    this.isEditMode = true;
+    this.childEditFormComponent.loadRecord(this.recordId);
   }
 
 }

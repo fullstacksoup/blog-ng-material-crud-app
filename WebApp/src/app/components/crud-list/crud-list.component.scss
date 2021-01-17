@@ -45,53 +45,6 @@ table {
 
 
 
-.scrollbar-table
-{
-    position: relative;
-    height: 300px;
-    overflow: auto;
-    margin-bottom: 25px;
-
-}
-
-.force-overflow
-{
-    min-height: 400px;
-
-}
-
-#wrapper
-{
-    text-align: center;
-    width: 400px;
-    margin: auto;
-}
-
-/*
- *  SCROLL BAR STYLE
- */
-
-#style-red::-webkit-scrollbar-track
-{
-  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
-  border-radius: 20px;
-  background-color: #F5F5F5;
-}
-
-#style-red::-webkit-scrollbar
-{
-  width: 28px;
-  background-color: #F5F5F5;
-}
-
-#style-red::-webkit-scrollbar-thumb
-{
-  border-radius: 20px;
-  height: 50px;
-  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
-  background-color: #f35c16;
-}
-
 .list-title {
   border-bottom: 1px solid lightgray;
   border-top: 1px solid lightgray;

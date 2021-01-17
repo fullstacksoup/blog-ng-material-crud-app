@@ -10,7 +10,14 @@ export interface DataResultModel {
   data?: RecordModel[];
 }
 
-interface RecordModel {
+
+export interface SingleRecordResultModel {
+  status?: number;
+  msg?: string;
+  data?: RecordModel;
+}
+
+export interface RecordModel {
   Text?: string;
   Number?: number;
   Boolean?: boolean;
