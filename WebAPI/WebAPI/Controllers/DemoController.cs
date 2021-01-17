@@ -46,14 +46,13 @@ namespace FileUploadAPI.Controllers
 
                     db.GenericTables.Add(addRecordForm);
                     db.SaveChanges();
-
-                    return Ok("Successfully Added Record To Database");
+                    return new { status = StatusCodes.OK.code, msg = "Successfully Added Record To Database" };                    
                 }
 
             }
             catch (System.Exception e)
             {
-                return BadRequest(e.Message);
+                return new { status = StatusCodes.NotFound.code, msg = e.InnerException, data = 0 };
             }
         }
 
@@ -81,13 +80,14 @@ namespace FileUploadAPI.Controllers
                     db.GenericTables.Add(updateRecordForm);
                     db.SaveChanges();
 
-                    return Ok("Successfully Added Record To Database");
+                    return new { status = StatusCodes.OK.code, msg = "Successfully Updated Record" };
+                    
                 }
 
             }
             catch (System.Exception e)
             {
-                return BadRequest(e.Message);
+                return new { status = StatusCodes.NotFound.code, msg = e.InnerException, data = 0 };
             }
         }
 

@@ -21,7 +21,7 @@ export class CrudListComponent implements OnInit, OnDestroy {
   @ViewChild(MatPaginator) paginator: MatPaginator;
   @ViewChild('TABLE') table: ElementRef;
   // tslint:disable-next-line: max-line-length
-  displayedColumns: string[] = ['Edit', 'Text', 'Number', 'Boolean', 'JSDate',  'Remove'];
+  displayedColumns: string[] = ['Edit', 'JSDate',  'Text', 'Number', 'Boolean',  'Remove'];
   private subs = new Subscription();
   private dataArr: any;
   public resultsLength = 0;
@@ -40,6 +40,7 @@ export class CrudListComponent implements OnInit, OnDestroy {
     this.showEditBtn = false;
     this.subs.add(this.demoSVC.getAll()
     .subscribe((data) => {
+      console.log(data);
       this.dataArr = data;
       this.dataSource = new MatTableDataSource(this.dataArr.data);
       this.dataSource.sort = this.sort;
@@ -85,16 +86,19 @@ export class CrudListComponent implements OnInit, OnDestroy {
 
   public reload(): void  {
     this.recordEditId = 0;
-  //   this.subs.add(this.mraccSVC.getAllData()
-  //   .subscribe((data) => {
-  //     this.dataArr = data;
-  //     this.dataSource = new MatTableDataSource(this.dataArr.data);
-  //     this.dataSource.sort = this.sort;
-  //     this.isLoadingResults = false;
-  //   },
-  //   (err: HttpErrorResponse) => {
-  //     console.log(err);
-  //   }));
+
+    this.showEditBtn = false;
+    this.subs.add(this.demoSVC.getAll()
+    .subscribe((data) => {
+      console.log(data);
+      this.dataArr = data;
+      this.dataSource = new MatTableDataSource(this.dataArr.data);
+      this.dataSource.sort = this.sort;
+      this.isLoadingResults = false;
+    },
+    (err: HttpErrorResponse) => {
+      console.log(err);
+    }));
   }
 
   public cancelUpdate(): void  {
@@ -108,18 +112,15 @@ export class CrudListComponent implements OnInit, OnDestroy {
   }
 
 
-
   onDelete(id: number) {
-    // this.subs.add(this.mraccSVC.removeRecord(id)
-    // .subscribe((data) => {
-    //   this.openSnackBar(data.msg, 'Close');
-    //   this.reload();
-    // },
-    // (err: HttpErrorResponse) => {
-    //   console.log(err);
-    // }));
+    this.subs.add(this.demoSVC.remove(id)
+    .subscribe((data) => {
+      this.openSnackBar(data.msg, 'Close');
+      this.reload();
+    },
+    (err: HttpErrorResponse) => {
+      console.log(err);
+    }));
   }
-
-
 
 }

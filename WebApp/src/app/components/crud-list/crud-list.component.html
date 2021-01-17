@@ -7,7 +7,7 @@
   <div class="scrollbar-table" id="style-red" #TABLE>
     <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8">
       <!-- TSAThruputID -->
-<!--
+
       <ng-container matColumnDef="Edit">
         <th mat-header-cell *matHeaderCellDef>  </th>
         <td mat-cell *matCellDef="let element">
@@ -16,50 +16,26 @@
          </td>
       </ng-container>
 
-      <ng-container matColumnDef="ReportDate">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Report Date </th>
-        <td mat-cell *matCellDef="let element"> {{element.ReportDate | date: 'MM/dd/yyyy'}} </td>
+      <ng-container matColumnDef="JSDate">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Date </th>
+        <td mat-cell *matCellDef="let element"> {{element.JSDate | date: 'MM/dd/yyyy'}} </td>
       </ng-container>
 
-      <ng-container matColumnDef="RAC">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> RAC </th>
-        <td mat-cell *matCellDef="let element"> {{element.RAC}} </td>
+      <ng-container matColumnDef="Number">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Number </th>
+        <td mat-cell *matCellDef="let element"> {{element.Number | number:'1.0-2'}} </td>
       </ng-container>
 
-      <ng-container matColumnDef="T1">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> T1 </th>
-        <td mat-cell *matCellDef="let element"> {{element.T1}} </td>
+      <ng-container matColumnDef="Text">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Text </th>
+        <td mat-cell *matCellDef="let element"> {{element.Text}} </td>
       </ng-container>
 
-      <ng-container matColumnDef="T3">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> T3 </th>
-        <td mat-cell *matCellDef="let element"> {{element.T3}} </td>
+      <ng-container matColumnDef="Boolean">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header> Boolean </th>
+        <td mat-cell *matCellDef="let element"> {{element.Boolean}} </td>
       </ng-container>
 
-      <ng-container matColumnDef="WOWGain">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> WOW Gain </th>
-        <td mat-cell *matCellDef="let element"> {{element.WOWGain}} </td>
-      </ng-container>
-
-      <ng-container matColumnDef="Average_Gain">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Average Gain </th>
-        <td mat-cell *matCellDef="let element"> {{element.Average_Gain}} </td>
-      </ng-container>
-
-      <ng-container matColumnDef="MovingWeeklyAverage">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Moving Weekly Average </th>
-        <td mat-cell *matCellDef="let element"> {{element.MovingWeeklyAverage}} </td>
-      </ng-container>
-
-      <ng-container matColumnDef="NumberOfDays">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Number Of Days </th>
-        <td mat-cell *matCellDef="let element"> {{element.NumberOfDays}} </td>
-      </ng-container>
-
-      <ng-container matColumnDef="Gain">
-        <th mat-header-cell *matHeaderCellDef mat-sort-header> Gain </th>
-        <td mat-cell *matCellDef="let element"> {{element.Gain | number:'1.0-2'}} </td>
-      </ng-container>
 
 
       <ng-container matColumnDef="Remove">
@@ -67,7 +43,7 @@
         <td mat-cell *matCellDef="let element">
           <button mat-button color="warn" id="deleteBtn" (click)="onDelete(element.Id)"><span class="icon"><mat-icon [inline]="true">delete</mat-icon></span></button>
          </td>
-      </ng-container> -->
+      </ng-container>
 
 
       <tr mat-header-row *matHeaderRowDef="displayedColumns; sticky: true"></tr>
