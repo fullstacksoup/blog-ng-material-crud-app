@@ -757,3 +757,4 @@ C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\o
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csproj.CopyComplete
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\FileUploadAPI.dll
 C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\FileUploadAPI.pdb
+C:\PROJECTS\FULLSTACKSOUP BLOG\CURRENT\blog-ng-material-crud-app\WebAPI\WebAPI\obj\Debug\LocalWebAPI.csprojAssemblyReference.cache

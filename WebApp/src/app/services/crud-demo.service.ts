@@ -14,6 +14,11 @@ export class CrudDemoService {
 
   private data: any[] = [];
 
+  public getStates(): Observable<any> {
+    return this.http.get('assets/states.json');
+  }
+
+
   // ********************************************************** */
   // * G E T   A L L   R E C O R D
   // ********************************************************** */
