@@ -1,4 +1,3 @@
-import { ColorService } from './services/color.service';
 /********************************************************************************/
 /*                   A N G U L A R   L I B R A R I E S                    */
 /********************************************************************************/
@@ -31,7 +30,7 @@ import { CrudDemoService } from 'src/app/services/crud-demo.service';
 /*                A P P   C O M P O N E N T S                  */
 /********************************************************************************/
 
-import { GeoLocationService } from './services/geo-location.service';
+
 import { CrudListComponent } from './components/crud-list/crud-list.component';
 import { CrudLayoutComponent } from './components/crud-layout/crud-layout.component';
 import { CrudAddFormComponent } from './components/crud-add-form/crud-add-form.component';
