@@ -23,6 +23,53 @@ namespace FileUploadAPI.Controllers
     {
 
         // *********************************************************************************
+        // G E T   A L L   R E C O R D
+        // *********************************************************************************       
+
+        [HttpGet]
+        [Route("getall")]
+        public object getAllRecords()
+        {
+            try
+            {
+                using (DemoEntities db = new DemoEntities())
+                {
+
+                    var queryResults = db.GenericTables.OrderByDescending(col => col.JSDateTime).ToList();
+
+                    return new { status = StatusCodes.OK.code, msg = StatusCodes.OK.msg, data = queryResults };
+                }
+            }
+            catch (System.Exception e)
+            {
+                return new { status = StatusCodes.NotFound.code, msg = e.InnerException, data = 0 };
+            }
+        }
+
+
+        // *********************************************************************************
+        // G E T   S I N G L E   R E C O R D
+        // *********************************************************************************       
+
+        [HttpGet]
+        [Route("getsinglerecord/{id}")]
+        public object getSingleRecord(int id)
+        {
+            try
+            {
+                using (DemoEntities db = new DemoEntities())
+                {
+                    var record = db.GenericTables.Find(id);
+                    return new { status = StatusCodes.OK.code, msg = StatusCodes.OK.msg, data = record };
+                }
+            }
+            catch (System.Exception e)
+            {
+                return new { status = StatusCodes.NotFound.code, msg = e.InnerException };
+            }
+        }
+
+        // *********************************************************************************
         // A D D   R E C O R D
         // *********************************************************************************       
 
@@ -86,53 +133,6 @@ namespace FileUploadAPI.Controllers
             catch (System.Exception e)
             {
                 return new { status = StatusCodes.NotFound.code, msg = e.InnerException, data = 0 };
-            }
-        }
-
-        // *********************************************************************************
-        // G E T   A L L   R E C O R D
-        // *********************************************************************************       
-
-        [HttpGet]
-        [Route("getall")]
-        public object getAllRecords()
-        {
-            try
-            {
-                using (DemoEntities db = new DemoEntities())
-                {
-
-                    var queryResults = db.GenericTables.OrderByDescending(col => col.JSDateTime).ToList();
-
-                    return new { status = StatusCodes.OK.code, msg = StatusCodes.OK.msg, data = queryResults };
-                }
-            }
-            catch (System.Exception e)
-            {
-                return new { status = StatusCodes.NotFound.code, msg = e.InnerException, data = 0 };
-            }
-        }
-
-
-        // *********************************************************************************
-        // G E T   S I N G L E   R E C O R D
-        // *********************************************************************************       
-
-        [HttpGet]
-        [Route("getsinglerecord/{id}")]
-        public object getSingleRecord(int id)
-        {
-            try
-            {
-                using (DemoEntities db = new DemoEntities())
-                {
-                    var record = db.GenericTables.Find(id);                                        
-                    return new { status = StatusCodes.OK.code, msg = StatusCodes.OK.msg, data=record };
-                }
-            }
-            catch (System.Exception e)
-            {
-                return new { status = StatusCodes.NotFound.code, msg = e.InnerException };
             }
         }
 
