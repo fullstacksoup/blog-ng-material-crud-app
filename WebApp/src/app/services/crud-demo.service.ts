@@ -1,7 +1,6 @@
 import { Injectable } from '@angular/core';
-import { Observable, BehaviorSubject } from 'rxjs';
+import { Observable } from 'rxjs';
 import { HttpClient, HttpParams, HttpHeaders } from '@angular/common/http';
-import { tap, map } from 'rxjs/operators';
 import { environment } from 'src/environments/environment';
 import { ResponseModel, DataResultModel, SingleRecordResultModel } from 'src/app/models/crud-demo';
 
@@ -35,7 +34,7 @@ export class CrudDemoService {
 
   getAll(): Observable<DataResultModel> {
     const URL = `${environment.baseURL}/api/demo/getall`;
-    console.log(URL);
+
     return this.http.get<DataResultModel>(URL);
   }
 
@@ -45,9 +44,7 @@ export class CrudDemoService {
   // ********************************************************** */
 
   add(formData: any): Observable<any> {
-
     const URL = `${environment.baseURL}/api/demo/add`;
-    // return this.http.get(URL);
 
     const body = new HttpParams()
     .set('Text', formData.controls.Text.value)
@@ -69,7 +66,6 @@ export class CrudDemoService {
   update(formData: any, id: number): Observable<any> {
 
     const URL = `${environment.baseURL}/api/demo/update`;
-    console.log(URL);
 
     const body = new HttpParams()
     .set('Id', id.toString())
@@ -92,7 +88,7 @@ export class CrudDemoService {
 
   remove(id: number): Observable<ResponseModel> {
     const URL = `${environment.baseURL}/api/demo/remove/${id}`;
-    console.log(URL);
+
     return this.http.get(URL);
   }
 

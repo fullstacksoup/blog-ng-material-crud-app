@@ -21,12 +21,10 @@ export class CrudListComponent implements OnInit, OnDestroy {
   @ViewChild(MatPaginator) paginator: MatPaginator;
   @ViewChild('TABLE') table: ElementRef;
   // tslint:disable-next-line: max-line-length
-  displayedColumns: string[] = ['Edit', 'JSDate',  'Text', 'Number', 'Boolean',  'Remove'];
+  private displayedColumns: string[] = ['Edit', 'JSDate',  'Text', 'Number', 'Boolean',  'Remove'];
   private subs = new Subscription();
   private dataArr: any;
-  public resultsLength = 0;
-  public isLoadingResults = true;
-  public isRateLimitReached = false;
+  public isLoadingResults: boolean;
   public showEditBtn: boolean;
   public recordEditId: number;
   public dataSource: MatTableDataSource<RecordModel>;
@@ -81,8 +79,9 @@ export class CrudListComponent implements OnInit, OnDestroy {
 
   public loadData(): void  {
     this.recordEditId = 0;
-
+    this.dataArr = [];
     this.showEditBtn = false;
+    this.isLoadingResults = true; // To show loading animation while fetching data
     this.subs.add(this.demoSVC.getAll()
     .subscribe((data) => {
       console.log(data);

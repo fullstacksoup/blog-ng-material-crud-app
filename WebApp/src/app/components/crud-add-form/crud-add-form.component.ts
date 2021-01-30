@@ -42,17 +42,16 @@ export class CrudAddFormComponent implements OnInit, OnDestroy {
   @Output() recordChanged = new EventEmitter<boolean>();
   options: FormGroup;
   private subs = new Subscription();
-  date = new FormControl(moment());
-  btnSubmitLabel: string;
-  isBtnSubmit: boolean;
+  public date = new FormControl(moment());
+  public btnSubmitLabel: string;
+  public isBtnSubmit: boolean;
   public dataForm: any;
-  cDate: any;
-  hideRequiredControl = new FormControl(false);
-  floatLabelControl = new FormControl('auto');
-  obsToUserSubscription: any; // Observable;
-  obsSubscription: any;
-  durationInSeconds = 8;
-  showMessage: boolean;
+  public hideRequiredControl = new FormControl(false);
+  public floatLabelControl = new FormControl('auto');
+  public obsToUserSubscription: any; // Observable;
+  public obsSubscription: any;
+  public durationInSeconds = 8;
+  public showMessage: boolean;
 
   constructor(private fb: FormBuilder,
               private demoSVC: CrudDemoService,
@@ -91,13 +90,10 @@ export class CrudAddFormComponent implements OnInit, OnDestroy {
   }
 
   onSubmit($event: any): void {
-
     const currentDate = this.datepipe.transform(this.date.value._d, 'yyyy-MM-dd');
     this.dataForm.controls.JSDate.setValue(currentDate);
     this.btnSubmitLabel = 'Saving...';
     this.isBtnSubmit = true;
-    console.log('$event ', $event);
-    console.log('this.dataForm: ', this.dataForm);
     this.subs.add(this.demoSVC.add(this.dataForm).subscribe((data) => {
       if (data.status === 200) {
         this.openSnackBar(data.msg, 'Close', 'mat-primary');
@@ -120,7 +116,6 @@ export class CrudAddFormComponent implements OnInit, OnDestroy {
     this.dataForm.controls.Number.setValue(null);
     this.dataForm.controls.Text.setErrors(null);
     this.dataForm.controls.Number.setErrors(null);
-    // this.dataForm.reset();
   }
 
 }

@@ -75,9 +75,7 @@ namespace FileUploadAPI.Controllers
                     updateRecordForm.Number = int.Parse(form.Number);
                     updateRecordForm.Boolean = Boolean.Parse(form.Boolean);
                     updateRecordForm.JSDate = DateTime.Parse(form.JSDate);
-                    // updateRecordForm.JSDateTime = DateTime.Parse(form.JSDateTime);
-
-                    db.GenericTables.Add(updateRecordForm);
+                    updateRecordForm.JSDateTime = today;                    
                     db.SaveChanges();
 
                     return new { status = StatusCodes.OK.code, msg = "Successfully Updated Record" };
@@ -104,7 +102,7 @@ namespace FileUploadAPI.Controllers
                 using (DemoEntities db = new DemoEntities())
                 {
 
-                    var queryResults = db.GenericTables.ToList();
+                    var queryResults = db.GenericTables.OrderByDescending(col => col.JSDateTime).ToList();
 
                     return new { status = StatusCodes.OK.code, msg = StatusCodes.OK.msg, data = queryResults };
                 }

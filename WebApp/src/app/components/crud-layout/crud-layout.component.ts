@@ -24,9 +24,11 @@ export class CrudLayoutComponent implements OnInit {
 
   public cancelUpdate(): void {
     this.showEditRecord = false;
+    this.childListComponent.loadData();
   }
 
   public onReloadList($vent: any): void {
+    this.showEditRecord = false;
     this.childListComponent.loadData();
   }
 
@@ -40,12 +42,15 @@ export class CrudLayoutComponent implements OnInit {
 
   public onEditRecord($event): void {
     this.recordId = $event;
-    console.log('Edit Record ', $event);
     if (this.showEditRecord) {
     } else {
       this.showEditRecord = true;
     }
-    this.childEditFormComponent.loadRecord(this.recordId);
+    // Delay to Render Edit Form Component before calling loadRecord()
+    setTimeout(() => {
+      this.childEditFormComponent.loadRecord(this.recordId);
+    }, 200);
+
   }
 
 }

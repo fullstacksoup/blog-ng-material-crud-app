@@ -39,6 +39,7 @@ export const MY_FORMATS = {
 })
 export class CrudEditFormComponent implements OnInit, OnDestroy {
   @Output() recordUpdated = new EventEmitter<boolean>();
+  @Output() cancelUpdated = new EventEmitter<boolean>();
   public options: FormGroup;
   private subs = new Subscription();
   public date = new FormControl(moment());
@@ -64,7 +65,6 @@ export class CrudEditFormComponent implements OnInit, OnDestroy {
   });
 
   ngOnInit(): void {
-  //  this.showMessage = false;
     this.btnSubmitLabel = 'Save';
     this.isBtnSubmit = false;
   }
@@ -85,13 +85,11 @@ export class CrudEditFormComponent implements OnInit, OnDestroy {
 
   public onSubmit($event): void {
     const currentDate = this.datepipe.transform(this.dataForm.controls.JSDate.value, 'yyyy-MM-dd');
-    // const currentDate = this.datepipe.transform(this.date.value._d, 'yyyy-MM-dd');
     this.dataForm.controls.JSDate.setValue(currentDate);
     this.btnSubmitLabel = 'Saving...';
     this.isBtnSubmit = true;
-    console.log(' submit this.date: ', this.dataForm.controls);
+
     this.subs.add(this.demoSVC.update(this.dataForm, this.recordId).subscribe((data) => {
-      console.log('Edit Form Submit: ', data);
       if (data.status === 200) {
         this.openSnackBar(data.msg, 'Close', 'mat-primary');
         this.recordUpdated.emit(true);
@@ -107,10 +105,16 @@ export class CrudEditFormComponent implements OnInit, OnDestroy {
     }));
   }
 
+  public onCancel(): void {
+    this.cancelUpdated.emit(true);
+  }
+
   public loadRecord(id: number): void {
     this.recordId = id;  //  Used when the form is updated. The ID is passed from the list to the parent layout and down to this component.
     this.booleanVal = false;  // Initialize the boolean value first or the form will Angular Directive *ngIf will not render a null
+
     this.subs.add(this.demoSVC.getRecord(id).subscribe((record) => {
+      console.log('record ', record);
       this.dataForm = this.fb.group({
         Text: [record.data.Text, [Validators.required]],
         Number: [record.data.Number, [Validators.required]],
