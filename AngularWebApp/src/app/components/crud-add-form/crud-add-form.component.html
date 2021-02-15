@@ -1,0 +1,52 @@
+<div class="container">
+
+  <form [formGroup]="dataForm" novalidate (ngSubmit)="onSubmit($event)" autocomplete="off">
+
+    <div class="row">
+      <div class="col-8">
+        <mat-form-field  class="md-width">
+          <input type="text" matInput [matDatepicker]="dp" [formControl]="date" formControlName="JSDate">
+          <mat-datepicker #dp></mat-datepicker>
+        </mat-form-field>
+        <button type="button" mat-raised-button color="accent" (click)="dp.open()"><mat-icon>today</mat-icon></button>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-6">
+        <mat-form-field class="full-width">
+          <mat-label>Text</mat-label>
+          <input matInput placeholder="" value="" formControlName="Text" >
+        </mat-form-field>
+      </div>
+      <div class="col-6">
+        <mat-form-field class="full-width">
+          <mat-label>Number</mat-label>
+          <input matInput placeholder="" value="" formControlName="Number" >
+        </mat-form-field>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-7">
+        <mat-radio-group aria-label="Select an option" formControlName="Boolean">
+          <mat-radio-button value="true" [checked]="true">True</mat-radio-button>
+          <mat-radio-button value="false">False</mat-radio-button>
+        </mat-radio-group>
+      </div>
+    </div>
+
+    <div class="row mt-5">
+      <div class="col-4">
+        <button type="submit" mat-raised-button color="primary" [disabled]="dataForm.invalid">{{btnSubmitLabel}}</button>
+      </div>
+      <div class="col-4">
+      </div>
+      <div class="col-4">
+        <button mat-raised-button color="warn" (click)="dataForm.reset()" type="reset" [disabled]="dataForm.pristine">Reset</button>
+      </div>
+    </div>
+
+  </form>
+
+</div>

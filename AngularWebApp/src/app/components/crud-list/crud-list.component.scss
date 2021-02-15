@@ -1,0 +1,53 @@
+
+table {
+  width: 100%;
+}
+
+
+#editBtn {
+  opacity: 0.1;
+}
+#deleteBtn {
+  opacity: 0.1;
+}
+
+.icon {
+  font-size: 20px;
+}
+
+.icon-selected {
+  font-size: 30px;
+}
+
+
+.mat-row:hover {
+  font-weight: bold;
+  #editBtn, #deleteBtn {
+    opacity: 1;
+    -moz-transition: all 500ms ease-in;
+    /* WebKit */
+    -webkit-transition: all 500ms ease-in;
+    /* Opera */
+    -o-transition: all 500ms ease-in;
+    /* Standard */
+    transition: all 500ms ease-in;
+
+  }
+}
+
+.mat-row:hover .icon {
+  font-size: 30px;
+}
+
+#editBtnSelect {
+  opacity: 1;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+::ng-deep th.mat-header-cell {
+  font-weight: bolder;
+}
+
